@@ -1,6 +1,6 @@
 # Digit Recognizer
 
-A simple web app that uses a CNN to recognize handwritten digits (0–9) and sequences of digits.
+A simple web app that uses a CNN to recognize handwritten digits (0–9) and sequences of digits. For my course assignment.
 
 ## Installation
 
